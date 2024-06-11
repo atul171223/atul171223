@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![atul171623's GitHub | Stats](https://stats.quine.sh/atul171623/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=atul171623)
+
+[![atul171623's GitHub | Languages Over Time](https://stats.quine.sh/atul171623/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=atul171623)
